@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-redux-social-network/static/css/main.9b79445e.chunk.css",
+    "main.css": "/react-redux-social-network/static/css/main.61d133c1.chunk.css",
     "main.js": "/react-redux-social-network/static/js/main.17ded4ed.chunk.js",
     "main.js.map": "/react-redux-social-network/static/js/main.17ded4ed.chunk.js.map",
     "runtime-main.js": "/react-redux-social-network/static/js/runtime-main.d3a5c5ba.js",
@@ -8,7 +8,7 @@
     "static/js/2.9077bed3.chunk.js": "/react-redux-social-network/static/js/2.9077bed3.chunk.js",
     "static/js/2.9077bed3.chunk.js.map": "/react-redux-social-network/static/js/2.9077bed3.chunk.js.map",
     "index.html": "/react-redux-social-network/index.html",
-    "static/css/main.9b79445e.chunk.css.map": "/react-redux-social-network/static/css/main.9b79445e.chunk.css.map",
+    "static/css/main.61d133c1.chunk.css.map": "/react-redux-social-network/static/css/main.61d133c1.chunk.css.map",
     "static/js/2.9077bed3.chunk.js.LICENSE.txt": "/react-redux-social-network/static/js/2.9077bed3.chunk.js.LICENSE.txt",
     "static/media/HbS0b.a8357fb2.jpg": "/react-redux-social-network/static/media/HbS0b.a8357fb2.jpg",
     "static/media/Dialogs.module.css": "/react-redux-social-network/static/media/avatar.81ed9c3d.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.d3a5c5ba.js",
     "static/js/2.9077bed3.chunk.js",
-    "static/css/main.9b79445e.chunk.css",
+    "static/css/main.61d133c1.chunk.css",
     "static/js/main.17ded4ed.chunk.js"
   ]
 }
